@@ -1,5 +1,4 @@
-# scoredboard
-A task given by Sunday company 
+# Scoredboard
 
 ## Question
 input: dbbaCEDbdAacCEAadcB
