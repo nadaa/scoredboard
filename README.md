@@ -17,6 +17,8 @@ Please report all the player with score followed by the most winner.
 
 ## Running instructions
 
+First, please download the repository from github.
+
 The code is written in javascript, you can run the code either from the browser console or via Nodejs (if you have it installed)
 
 1- Run the code via browser console, open Google chrome or Firefox, go to 	main menue->more tools-developer tools ->console
